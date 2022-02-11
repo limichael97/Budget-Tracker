@@ -122,6 +122,7 @@ function sendTransaction(isAdding) {
     }
   })
   .then(response => {    
+    alert('Transaction has been submitted!');
     return response.json();
   })
   .then(data => {
