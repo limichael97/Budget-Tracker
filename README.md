@@ -24,6 +24,8 @@ This project is licensed under the MIT license.
 No need to install anything
 
 # Usage
+Deployed App: https://trackyourtransactions.herokuapp.com/
+
 1. Put in the name of the transaction
 2. Put in the amount of the transaction
 3. Click "Add Funds" or "Subtract Funds" depending on what type of transaction you are submitting
