@@ -3,6 +3,8 @@
 
 # Description
 
+![image](https://user-images.githubusercontent.com/90745029/153731300-816b6b90-70ad-46b3-bcfa-7482348a4141.png)
+
 A budget tracker application that allows offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection.
 
 # License
